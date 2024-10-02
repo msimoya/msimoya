@@ -1,2 +1,14 @@
-Name: Menard Simoya
-I have adhered to the honor code in this assignment.
+# Hi there! 👋
+
+
+## Who am I?
+
+- :man: → Menard Simoya
+- :house: → Zimbabwe
+- :books: → Oberlin College (Oberlin, Ohio, USA 🇺🇸)
+
+## My passions
+
+- Artificial Intelligence and Machine Learning:
+- Software development :computer:
+
