@@ -11,7 +11,19 @@
 
 ## My passions
 
-- AI and Machine Learning:🤖:
-- Software development :computer:
+- AI and Machine Learning 🤖
+- Software development 💻
+
+## Computer Skills and Languages:
+
+-Python
+-Java
+-Rust
+-Racket
+-R
+-Javascript
+-Matlab
+
+ 
 
 
