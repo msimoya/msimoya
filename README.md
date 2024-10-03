@@ -16,4 +16,4 @@
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msimoya&layout=compact&langs_count= 7)](https://github.com/msimoya)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msimoya&layout=compact&langs_count=7](https://github.com/msimoya)
