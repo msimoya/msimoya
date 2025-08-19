@@ -7,7 +7,7 @@
 
 - :man: → Menard Simoya
 - :house: → Zimbabwe 🇿🇼
-- :books: → Oberlin College (Oberlin, Ohio, USA 🇺🇸)
+- :books: → Oberlin College (Ohio, USA 🇺🇸)
 
 ## My passions
 
@@ -21,9 +21,11 @@
 -Rust
 -Racket
 -R
--Javascript
 -Matlab
 -Assembly
+-Javascript, CSS, HTML
+-SQL
+
 
  
 
