@@ -21,6 +21,7 @@
 -Rust
 -Racket
 -R
+-Swift
 -Matlab
 -Assembly
 -Javascript, CSS, HTML
